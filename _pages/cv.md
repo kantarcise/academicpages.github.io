@@ -32,6 +32,13 @@ With a reference later in the document defining the URL location:
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
+---
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+
 ![Cat](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/12e160164d4b8ea816ae45458b4bdd7b.jpg)
 ![Tiger](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/42a2a8c6c6db7c6e3ed3b1a9ceb2b42d.jpg)
 ![Chicken](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/Handmade-Needle-felted-felting-animal-cute-chicken-Christmas-Reindeer-felted-wool-doll_2.jpg)
