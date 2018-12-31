@@ -9,51 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Links
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[link text](http://dev.nodeca.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+
+
+## Cute Animals
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+Like links, Images also have a footnote style syntax
+
+![Alt text][id]
+
+With a reference later in the document defining the URL location:
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+
+![Cat](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/12e160164d4b8ea816ae45458b4bdd7b.jpg)
+![Tiger](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/42a2a8c6c6db7c6e3ed3b1a9ceb2b42d.jpg)
+![Chicken](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/Handmade-Needle-felted-felting-animal-cute-chicken-Christmas-Reindeer-felted-wool-doll_2.jpg)
+
+<br />
+
+![Rabbit](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/Hes-so-cute-he-looks-fake.jpg)
+![Cat The Second](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/a1e392bad87f0a269b4892c0ce5d9d53.jpg)
+![Doge](https://github.com/kantarcise/kantarcise.github.io/blob/master/_images/large.jpg)
+
